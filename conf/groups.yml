@@ -91,6 +91,7 @@ Body:
       breakguild: true
       channel: true
       langtype: true
+      warp: true
     Permissions:
       attendance: false
   - Id: 2
@@ -195,7 +196,6 @@ Body:
       fakename: true
       option: true
       speed: true
-      warp: true
       kill: true
       recall: true
       ban: true
