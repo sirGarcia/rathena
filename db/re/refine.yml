@@ -114,17 +114,17 @@ Body:
             Bonus: 600
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 2000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 6000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Elunium
                 BreakingRate: 1
@@ -132,17 +132,17 @@ Body:
             Bonus: 800
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Elunium
                 BreakingRate: 1
@@ -150,17 +150,17 @@ Body:
             Bonus: 1000
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Elunium
                 BreakingRate: 1
@@ -169,17 +169,17 @@ Body:
             BlacksmithBlessingAmount: 1
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 2000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Elunium
                 BreakingRate: 1
@@ -188,17 +188,17 @@ Body:
             BlacksmithBlessingAmount: 2
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 2000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Elunium
                 BreakingRate: 1
@@ -207,17 +207,17 @@ Body:
             BlacksmithBlessingAmount: 4
             Chances:
               - Type: Normal
-                Rate: 900
+                Rate: 10000
                 Price: 2000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 900
+                Rate: 10000
                 Price: 20000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 2000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Elunium
                 BreakingRate: 1
@@ -226,13 +226,13 @@ Body:
             BlacksmithBlessingAmount: 7
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -241,13 +241,13 @@ Body:
             BlacksmithBlessingAmount: 11
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -258,13 +258,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -275,13 +275,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -291,13 +291,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -307,13 +307,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -323,13 +323,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -339,13 +339,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -355,13 +355,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -371,13 +371,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Carnium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Carnium
                 DowngradeAmount: 1
@@ -420,12 +420,12 @@ Body:
             Bonus: 480
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Ethernium
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Ethernium
                 DowngradeAmount: 1
@@ -433,12 +433,12 @@ Body:
             Bonus: 720
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Ethernium
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Ethernium
                 DowngradeAmount: 1
@@ -446,12 +446,12 @@ Body:
             Bonus: 960
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Ethernium
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Ethernium
                 DowngradeAmount: 1
@@ -459,12 +459,12 @@ Body:
             Bonus: 1200
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Ethernium
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Ethernium
                 DowngradeAmount: 1
@@ -473,12 +473,12 @@ Body:
             BlacksmithBlessingAmount: 1
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 50000
                 Material: Ethernium
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Ethernium
                 DowngradeAmount: 1
@@ -487,12 +487,12 @@ Body:
             BlacksmithBlessingAmount: 2
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 50000
                 Material: Ethernium
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Ethernium
                 DowngradeAmount: 1
@@ -501,12 +501,12 @@ Body:
             BlacksmithBlessingAmount: 4
             Chances:
               - Type: Normal
-                Rate: 900
+                Rate: 10000
                 Price: 50000
                 Material: Ethernium
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 2000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Ethernium
                 DowngradeAmount: 1
@@ -515,12 +515,12 @@ Body:
             BlacksmithBlessingAmount: 7
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Ethernium
                 BreakingRate: 1
@@ -529,12 +529,12 @@ Body:
             BlacksmithBlessingAmount: 11
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Ethernium
                 BreakingRate: 1
@@ -545,12 +545,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Ethernium
                 BreakingRate: 1
@@ -561,12 +561,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Ethernium
                 BreakingRate: 1
@@ -576,12 +576,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Ethernium
                 BreakingRate: 1
@@ -591,12 +591,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Carnium
                 BreakingRate: 1
@@ -606,12 +606,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Carnium
                 BreakingRate: 1
@@ -621,12 +621,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Carnium
                 BreakingRate: 1
@@ -636,12 +636,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Carnium
                 BreakingRate: 1
@@ -651,12 +651,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Carnium
                 BreakingRate: 1
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Carnium
                 BreakingRate: 1
@@ -775,17 +775,17 @@ Body:
             BlacksmithBlessingAmount: 1
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 50
                 Material: Phracon
                 BreakingRate: 1
               - Type: HD
-                Rate: 6000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -795,17 +795,17 @@ Body:
             BlacksmithBlessingAmount: 2
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 50
                 Material: Phracon
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -815,17 +815,17 @@ Body:
             BlacksmithBlessingAmount: 4
             Chances:
               - Type: Normal
-                Rate: 1900
+                Rate: 10000
                 Price: 50
                 Material: Phracon
                 BreakingRate: 1
               - Type: HD
-                Rate: 1900
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 3000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -835,13 +835,13 @@ Body:
             BlacksmithBlessingAmount: 7
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -851,13 +851,13 @@ Body:
             BlacksmithBlessingAmount: 11
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -869,13 +869,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -887,13 +887,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -904,13 +904,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -921,13 +921,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -938,13 +938,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -955,13 +955,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -972,13 +972,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -989,13 +989,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1096,17 +1096,17 @@ Body:
             RandomBonus: 500
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 200
                 Material: Emveretarcon
                 BreakingRate: 1
               - Type: HD
-                Rate: 6000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1116,17 +1116,17 @@ Body:
             BlacksmithBlessingAmount: 1
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 200
                 Material: Emveretarcon
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1136,17 +1136,17 @@ Body:
             BlacksmithBlessingAmount: 2
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 200
                 Material: Emveretarcon
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1156,17 +1156,17 @@ Body:
             BlacksmithBlessingAmount: 4
             Chances:
               - Type: Normal
-                Rate: 1900
+                Rate: 10000
                 Price: 200
                 Material: Emveretarcon
                 BreakingRate: 1
               - Type: HD
-                Rate: 1900
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 3000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1176,13 +1176,13 @@ Body:
             BlacksmithBlessingAmount: 7
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1192,13 +1192,13 @@ Body:
             BlacksmithBlessingAmount: 11
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1210,13 +1210,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1228,13 +1228,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1245,13 +1245,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1262,13 +1262,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1279,13 +1279,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1296,13 +1296,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1313,13 +1313,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1330,13 +1330,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1422,17 +1422,17 @@ Body:
             RandomBonus: 800
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 5000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 6000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1441,17 +1441,17 @@ Body:
             RandomBonus: 1600
             Chances:
               - Type: Normal
-                Rate: 5000
+                Rate: 10000
                 Price: 5000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 5000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 8000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1461,17 +1461,17 @@ Body:
             BlacksmithBlessingAmount: 1
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 5000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1481,17 +1481,17 @@ Body:
             BlacksmithBlessingAmount: 2
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 5000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1501,17 +1501,17 @@ Body:
             BlacksmithBlessingAmount: 4
             Chances:
               - Type: Normal
-                Rate: 1900
+                Rate: 10000
                 Price: 5000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 1900
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 3000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1521,13 +1521,13 @@ Body:
             BlacksmithBlessingAmount: 7
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1537,13 +1537,13 @@ Body:
             BlacksmithBlessingAmount: 11
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1555,13 +1555,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1573,13 +1573,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1590,13 +1590,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1607,13 +1607,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1624,13 +1624,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1641,13 +1641,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1658,13 +1658,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1675,13 +1675,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1752,17 +1752,17 @@ Body:
             RandomBonus: 1400
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 20000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 6000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1771,17 +1771,17 @@ Body:
             RandomBonus: 2800
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1790,17 +1790,17 @@ Body:
             RandomBonus: 4200
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1810,17 +1810,17 @@ Body:
             BlacksmithBlessingAmount: 1
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1830,17 +1830,17 @@ Body:
             BlacksmithBlessingAmount: 2
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1850,17 +1850,17 @@ Body:
             BlacksmithBlessingAmount: 4
             Chances:
               - Type: Normal
-                Rate: 900
+                Rate: 10000
                 Price: 20000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 900
+                Rate: 10000
                 Price: 20000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 2000
+                Rate: 10000
                 Price: 2000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
@@ -1870,13 +1870,13 @@ Body:
             BlacksmithBlessingAmount: 7
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1886,13 +1886,13 @@ Body:
             BlacksmithBlessingAmount: 11
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1904,13 +1904,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1922,13 +1922,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1939,13 +1939,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1956,13 +1956,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1973,13 +1973,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -1990,13 +1990,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -2007,13 +2007,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -2024,13 +2024,13 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Bradium
                 BreakingRate: 2000
                 DowngradeAmount: 3
               - Type: HD
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Bradium
                 DowngradeAmount: 1
@@ -2073,12 +2073,12 @@ Body:
             Bonus: 3200
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Etherdeocon
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Etherdeocon
                 DowngradeAmount: 1
@@ -2086,12 +2086,12 @@ Body:
             Bonus: 4000
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Etherdeocon
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Etherdeocon
                 DowngradeAmount: 1
@@ -2099,12 +2099,12 @@ Body:
             Bonus: 4800
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Etherdeocon
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Etherdeocon
                 DowngradeAmount: 1
@@ -2112,12 +2112,12 @@ Body:
             Bonus: 5600
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Etherdeocon
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 6000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Etherdeocon
                 DowngradeAmount: 1
@@ -2126,12 +2126,12 @@ Body:
             BlacksmithBlessingAmount: 1
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 50000
                 Material: Etherdeocon
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Etherdeocon
                 DowngradeAmount: 1
@@ -2140,12 +2140,12 @@ Body:
             BlacksmithBlessingAmount: 2
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 50000
                 Material: Etherdeocon
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Etherdeocon
                 DowngradeAmount: 1
@@ -2154,12 +2154,12 @@ Body:
             BlacksmithBlessingAmount: 4
             Chances:
               - Type: Normal
-                Rate: 900
+                Rate: 10000
                 Price: 50000
                 Material: Etherdeocon
                 DowngradeAmount: 3
               - Type: Enriched
-                Rate: 2000
+                Rate: 10000
                 Price: 50000
                 Material: Enriched_Etherdeocon
                 DowngradeAmount: 1
@@ -2168,12 +2168,12 @@ Body:
             BlacksmithBlessingAmount: 7
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etherdeocon
                 BreakingRate: 1
@@ -2182,12 +2182,12 @@ Body:
             BlacksmithBlessingAmount: 11
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etherdeocon
                 BreakingRate: 1
@@ -2198,12 +2198,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etherdeocon
                 BreakingRate: 1
@@ -2214,12 +2214,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 800
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1500
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etherdeocon
                 BreakingRate: 1
@@ -2229,12 +2229,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etherdeocon
                 BreakingRate: 1
@@ -2244,12 +2244,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Bradium
                 BreakingRate: 1
@@ -2259,12 +2259,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Bradium
                 BreakingRate: 1
@@ -2274,12 +2274,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 1000
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Bradium
                 BreakingRate: 1
@@ -2289,12 +2289,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Bradium
                 BreakingRate: 1
@@ -2304,12 +2304,12 @@ Body:
             BroadcastFailure: true
             Chances:
               - Type: Normal
-                Rate: 500
+                Rate: 10000
                 Price: 100000
                 Material: Etel_Bradium
                 BreakingRate: 1
               - Type: HD
-                Rate: 700
+                Rate: 10000
                 Price: 100000
                 Material: HD_Etel_Bradium
                 BreakingRate: 1
@@ -2376,102 +2376,102 @@ Body:
           - Level: 5
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 10000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 6000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Elunium
                 BreakingRate: 1
           - Level: 6
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Elunium
                 BreakingRate: 1
           - Level: 7
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Elunium
                 BreakingRate: 1
           - Level: 8
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Elunium
                 BreakingRate: 1
           - Level: 9
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Elunium
                 BreakingRate: 1
           - Level: 10
             Chances:
               - Type: Normal
-                Rate: 900
+                Rate: 10000
                 Price: 10000
                 Material: Elunium
                 BreakingRate: 1
               - Type: HD
-                Rate: 900
+                Rate: 10000
                 Price: 10000
                 Material: HD_Elunium
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Elunium
                 BreakingRate: 1
@@ -2538,102 +2538,102 @@ Body:
           - Level: 5
             Chances:
               - Type: Normal
-                Rate: 6000
+                Rate: 10000
                 Price: 10000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 6000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 9000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
           - Level: 6
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
           - Level: 7
             Chances:
               - Type: Normal
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 7000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
           - Level: 8
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
           - Level: 9
             Chances:
               - Type: Normal
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 4000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
           - Level: 10
             Chances:
               - Type: Normal
-                Rate: 900
+                Rate: 10000
                 Price: 10000
                 Material: Oridecon
                 BreakingRate: 1
               - Type: HD
-                Rate: 900
+                Rate: 10000
                 Price: 10000
                 Material: HD_Oridecon
                 DowngradeAmount: 1
               - Type: Enriched
-                Rate: 2000
+                Rate: 10000
                 Price: 10000
                 Material: Enriched_Oridecon
                 BreakingRate: 1
