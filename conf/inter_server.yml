@@ -40,6 +40,10 @@ Body:
   - ID: 0
     Name: "Storage"
     Table: storage
+  - ID: 1
+    Name: "Storage 1"
+    Table: storage1
+
 
 Footer:
   Imports:
