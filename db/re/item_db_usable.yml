@@ -11256,7 +11256,7 @@ Body:
     AegisName: Arrow_Of_Elf_Cntr
     Name: Arrow Of Elf Cntr
     Type: Usable
-    Buy: 500
+    Buy: 10
     Sell: 0
     Weight: 250
     Flags:
@@ -11267,7 +11267,7 @@ Body:
     AegisName: Hunting_Arrow_Cntr
     Name: Hunting Arrow Cntr
     Type: Usable
-    Buy: 500
+    Buy: 10
     Sell: 0
     Weight: 250
     Flags:
