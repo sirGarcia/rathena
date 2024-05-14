@@ -2597,6 +2597,8 @@ Body:
     Buy: 10
     Sell: 0
     Weight: 1
+    Flags:
+      BuyingStore: true
     Attack: 45
     Jobs:
       Archer: true
@@ -2616,6 +2618,8 @@ Body:
     Buy: 10
     Sell: 0
     Weight: 1
+    Flags:
+      BuyingStore: true
     Attack: 35
     Jobs:
       Archer: true
