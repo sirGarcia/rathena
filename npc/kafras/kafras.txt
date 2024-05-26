@@ -241,7 +241,7 @@ prontera,152,326,3	script	Kafra Employee::kaf_prontera	112,{
 	mes "you. So how can I be";
 	mes "of service today?";
 	callfunc "F_Kafra",5,0,0,40,800;
-	savepoint "prontera",157,327,1,1;
+	savepoint "prontera",156,191,1,1;
 	callfunc "F_KafEnd",0,1,"in the city of Prontera";
 }
 
@@ -513,7 +513,7 @@ gonryun,159,122,4	script	Kafra Employee::kaf_gonryun	116,{
 	mes "always ready to serve you.";
 	mes "How can I help you today?";
 	callfunc "F_Kafra",5,3,1,50,700;
-	savepoint "gonryun",160,62,1,1;
+	savepoint "gonryun",160,120,1,1;
 	callfunc "F_KafEnd",0,1,"in the city of Kunlun";
 }
 
